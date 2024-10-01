@@ -1,0 +1,7 @@
+venv/
+client_secret.json
+gmail_token.json
+emailcheck-test.mp4
+read_emails_stt_memory.py
+read_emails_tts.py
+read_emails.py
