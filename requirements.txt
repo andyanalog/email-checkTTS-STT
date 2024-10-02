@@ -1,0 +1,5 @@
+simplegmail
+pyttsx3
+SpeechRecognition
+requests
+pyaudio
