@@ -1,4 +1,4 @@
-# Email Summary and Voice Interaction with Llama Model
+# Email Check/Summary and Voice Interaction with Llama Model
 
 This project is a Python application that reads unread emails from Gmail, summarizes them using an LLM (Llama 3), and allows the user to interact with the model via voice commands. The user can ask questions, and the LLM will respond audibly. The conversation continues until the user decides to stop.
 
