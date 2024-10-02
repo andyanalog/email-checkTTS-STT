@@ -11,7 +11,7 @@ This project is a Python application that reads unread emails from Gmail, summar
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - [SimpleGmail](https://github.com/jeremyephron/simplegmail) (for fetching Gmail messages)
 - [Pyttsx3](https://pyttsx3.readthedocs.io/en/latest/) (for text-to-speech)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) (for speech-to-text)
