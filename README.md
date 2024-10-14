@@ -42,7 +42,7 @@ This project is a Python application that reads unread emails from Gmail, summar
 
 5. Run the application:
     ```bash
-    python read_emails_stt.py
+    python reademails-tts-stt.py
     ```
 
 ## Usage
